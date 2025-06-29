@@ -24,6 +24,7 @@ A simple and clean Flutter app that displays a **random motivational quote** eac
 Given Ramalivhana
 📧 [given.ramalivhana@gmail.com](mailto:given.ramalivhana@gmail.com)
 🔗 (https://www.linkedin.com/in/givenr)
+
 🌍 South Africa
 
 📄 License
